@@ -1,0 +1,54 @@
+# GitHub Pages Configuration for AI-Native PM Framework
+
+title: AI-Native PM Framework
+description: A staging platform for Product Managers to transition from fragmented AI chat interactions to structured, knowledge-driven workflows
+author: James Brown
+email: your-email@example.com
+
+# GitHub Pages settings
+baseurl: "/ai-native-pm-framework"
+url: "https://yourusername.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blogs/
+  - title: Framework
+    url: /core-elements/
+  - title: Templates
+    url: /templates/
+  - title: Workflows
+    url: /workflows/
+
+# Collections
+collections:
+  blogs:
+    output: true
+    permalink: /blogs/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "blogs"
+    values:
+      layout: "post"
+      author: "James Brown"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

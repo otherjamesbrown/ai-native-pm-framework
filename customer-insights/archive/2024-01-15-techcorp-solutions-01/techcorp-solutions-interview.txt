@@ -1,0 +1,52 @@
+Customer Interview Transcript
+Company: TechCorp Solutions
+Date: 2024-01-15
+Interviewer: Sarah Chen (PM)
+Interviewee: Marcus Rodriguez (VP of Product)
+Duration: 45 minutes
+
+---
+
+SARAH: Thanks for taking the time to speak with me today, Marcus. I know you're busy, so I'll keep this focused. Can you tell me about your current competitive intelligence process?
+
+MARCUS: Sure, Sarah. Right now it's pretty manual and honestly, it's a mess. We have three different people tracking competitors - our marketing team, product team, and sales team. Everyone's using different tools, different spreadsheets, different ways of organizing information. It's chaos.
+
+SARAH: That sounds frustrating. What's the biggest pain point with this approach?
+
+MARCUS: The biggest issue is that we're always behind. By the time we find out about a competitor's new feature or pricing change, they've already launched it and we're scrambling to respond. Last month, CompetitorX launched a new AI feature and we didn't know about it until our customers started asking us when we'd have something similar.
+
+SARAH: How do you currently discover competitor updates?
+
+MARCUS: Mostly manual - checking their websites, reading their blogs, following their social media. Sometimes our sales team hears things from prospects, but that's inconsistent. We tried using some web scraping tools but they were unreliable and kept breaking.
+
+SARAH: What would an ideal solution look like for you?
+
+MARCUS: Something that automatically monitors our key competitors and alerts us when they make changes. Not just website updates, but also pricing changes, new feature announcements, funding news. And it needs to be reliable - we can't have false alarms or missed updates.
+
+SARAH: If you could only have one thing from this solution, what would be the most important?
+
+MARCUS: Real-time alerts, hands down. That's the must-have feature. Everything else is nice-to-have, but if I could only have one thing, it would be knowing immediately when CompetitorX makes any change. That's our top priority right now.
+
+SARAH: How often would you want to be updated?
+
+MARCUS: Real-time would be ideal, but honestly, daily would be fine. We just need to know before our customers do. Right now we're finding out about competitor changes from our own customers, which is embarrassing.
+
+SARAH: What about the team collaboration aspect? You mentioned different teams tracking different things.
+
+MARCUS: Yeah, that's another problem. We need a central place where everyone can see what we know about each competitor. Right now, if marketing discovers something, product might not see it for weeks. We need shared visibility.
+
+SARAH: Any specific competitors you're most concerned about?
+
+MARCUS: CompetitorX is our biggest threat right now. They're moving fast and have deep pockets. Also DataFlow Inc - they're smaller but they're innovating in areas we're not. And CloudScale Systems for enterprise features.
+
+SARAH: What's your budget range for a solution like this?
+
+MARCUS: We'd pay $500-1000 per month for something that actually works. The current manual process is costing us way more than that in lost opportunities and delayed responses.
+
+SARAH: Any deal-breakers?
+
+MARCUS: It has to be reliable. We can't afford false positives or missed updates. Also needs to integrate with our existing tools - Slack, our CRM, maybe our project management system.
+
+SARAH: Perfect. One last question - if you had this solution tomorrow, what would be the first thing you'd do?
+
+MARCUS: Set up monitoring for CompetitorX immediately. Then create a shared dashboard for the whole team so everyone can see what's happening in real-time. We're tired of being reactive - we want to be proactive for once.

@@ -1,0 +1,13 @@
+# Private project management files
+.private/
+PROJECT_OUTLINE.md
+agents.md
+blog-drafts/
+development-notes/
+
+# Keep these public
+!public/
+!blogs/
+!README.md
+!LICENSE
+!_config.yml

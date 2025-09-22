@@ -1,0 +1,28 @@
+Customer Interview Transcript
+Company: Generic Corp
+Date: 2024-01-25
+Interviewer: Jane Doe (PM)
+Interviewee: John Smith (Manager)
+Duration: 30 minutes
+
+---
+
+JANE: Thanks for taking the time to speak with me today, John. Can you tell me about your current process?
+
+JOHN: Sure, Jane. We have a few different tools we use for tracking things. Some work well, others could be better.
+
+JANE: What challenges do you face?
+
+JOHN: Well, we have some minor issues with our current setup. The interface could be more user-friendly, and sometimes the data takes a while to load. Nothing major though.
+
+JANE: What features would you like to see?
+
+JOHN: It would be nice to have better reporting capabilities. Maybe some integration options. Nothing urgent though - we're managing fine with what we have.
+
+JANE: Any competitors you're concerned about?
+
+JOHN: There are a few companies in our space, but we're not too worried about them. We have our own approach.
+
+JANE: What would success look like for you?
+
+JOHN: Just continuing to improve our current processes. We're not looking for any major changes right now.
