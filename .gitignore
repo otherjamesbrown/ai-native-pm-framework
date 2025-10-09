@@ -1,9 +1,10 @@
-# Private project management files
-.private/
+# Development and private files
 PROJECT_OUTLINE.md
 agents.md
-blog-drafts/
 development-notes/
+
+# Specific files in dev/ to ignore (if needed)
+# dev/sensitive-file.md
 
 # Keep these public
 !public/

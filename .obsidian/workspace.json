@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "6dfeedfcd34151de",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cad92d9d40aff8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3179a5e4845f416f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev/blog-drafts/02-building-first-knowledge-base.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02-building-first-knowledge-base"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c9c0104f5de664e",
+    "type": "split",
+    "children": [
+      {
+        "id": "eeb4c2cdf8532f38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c98ee34cd01ddac9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab2971d43d36fe4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5bb2ef8a89613878",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e7f3adb64e2937a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2db3f3d78ad3262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47fdb05383066320",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dev/blog-drafts/02-building-first-knowledge-base.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 02-building-first-knowledge-base"
+            }
+          },
+          {
+            "id": "9aaa5ed9e8d56dfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dev/blog-drafts/02-building-first-knowledge-base.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 02-building-first-knowledge-base"
+            }
+          },
+          {
+            "id": "9347c6bf17efc0a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c96ade4cb455fe44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dev/blog-drafts/02-building-first-knowledge-base.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02-building-first-knowledge-base"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3179a5e4845f416f",
+  "lastOpenFiles": [
+    "dev/blog-drafts/02-building-first-knowledge-base.md.tmp.13724.1758647153677",
+    "dev/blog-drafts/02-building-first-knowledge-base.md.tmp.13724.1758647145776",
+    "dev/blog-drafts/02-building-first-knowledge-base.md.tmp.13724.1758646971662",
+    "dev/blog-drafts/02-building-first-knowledge-base.md.tmp.13724.1758646963238",
+    "dev/blog-drafts/01-why-chatbots-arent-enough.md",
+    "dev/blog-drafts/02-building-first-knowledge-base.md",
+    "CLAUDE.md.tmp.13724.1758585641239",
+    "AI_GUIDELINES.md",
+    "CLAUDE.md",
+    "dev/blog-drafts/agents.md.tmp.13724.1758585363862",
+    "dev/blog-drafts/01-why-chatbots-arent-enough.md.tmp.13724.1758585146168",
+    "dev/blog-drafts/01-why-chatbots-arent-enough.md.tmp.13724.1758585140311",
+    "blogs/Ai Native PM.md",
+    "dev/blog-drafts/README.md",
+    "dev/blog-drafts/agents.md",
+    "dev/blog-drafts/06-beyond-basics.md",
+    "dev/blog-drafts/05-personal-journey.md",
+    "dev/blog-drafts/03-ai-customization-workflow.md",
+    "dev/blog-drafts",
+    "dev/agents.md",
+    "dev/PROJECT_OUTLINE.md",
+    "dev"
+  ]
+}

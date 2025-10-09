@@ -1,7 +1,7 @@
-# AI-Native PM Framework - Agent Guidelines
+# AI-Native PM Framework - Claude Code Guidelines
 
 **⚠️ IMPORTANT: Keep Synchronized**
-This file must be kept in sync with `CLAUDE.md` and `AI_GUIDELINES.md`. If you update one, update all three to maintain consistency across different AI coding assistants.
+This file must be kept in sync with `.cursorrules` and `AI_GUIDELINES.md`. If you update one, update all three to maintain consistency across different AI coding assistants.
 
 ## General Principles
 - Challenge assumptions, don't just agree with proposals
@@ -13,13 +13,13 @@ This file must be kept in sync with `CLAUDE.md` and `AI_GUIDELINES.md`. If you u
 ## Agent Routing
 When working on specific tasks, read the relevant agents.md file first:
 
-- **Blog writing**: Read agents.md in blog-drafts/
+- **Blog writing**: Read agents.md in dev/blog-drafts/
 - **Customer insights**: Read agents.md in customer-insights/
 - **PRD generation**: Read agents.md in prds/ (when created)
 - **Decision logs**: Read agents.md in decision-logs/ (when created)
 
 ## Project Context
-This is a staging platform for Product Managers to transition from fragmented AI chat interactions to structured, knowledge-driven workflows using AI coding assistants like Cursor.
+This is a staging platform for Product Managers to transition from fragmented AI chat interactions to structured, knowledge-driven workflows using AI coding assistants like Claude Code.
 
 **Target Audience**: PMs currently using ChatGPT/Claude like a "calculator" (ask → answer → move on)
 **Goal**: 80% of enterprise framework benefits with 20% of the complexity
@@ -35,7 +35,7 @@ This is a staging platform for Product Managers to transition from fragmented AI
 ## Blog Strategy
 Each framework development decision becomes blog content:
 1. "Why chatbots aren't enough" → Problem identification
-2. "Beginner's guide" → Solution implementation  
+2. "Beginner's guide" → Solution implementation
 3. "Avoiding pitfalls" → Wisdom sharing
 4. "Personal journey" → Thought leadership
 5. "Advanced concepts" → Community building
@@ -45,6 +45,13 @@ Each framework development decision becomes blog content:
 - **howto-*.md**: Step-by-step guides for junior PMs
 - **prompt-*.md**: AI processing instructions
 - **agents.md**: AI agent guidance for specific modules
+
+## Working Style
+- Use the TodoWrite tool proactively to track progress on complex tasks
+- Read existing files before making changes
+- Follow the established tone and voice patterns in blog content
+- Maintain consistency with existing code conventions and patterns
+- Focus on practical, actionable solutions over theoretical frameworks
 
 ## Configuration File Synchronization
 **CRITICAL**: When modifying this file, also update:

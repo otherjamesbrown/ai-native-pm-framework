@@ -1,7 +1,0 @@
-filename, customer_name, processed_date, status, processed_file_path
-techcorp-solutions-interview.txt, "techcorp solutions", 2024-01-15, completed, processed/interviews/2024-01-15-techcorp-solutions.md
-cloudscale-systems-notes.md, "cloudscale systems", 2024-01-22, completed, processed/interviews/2024-01-22-cloudscale-systems.md
-dataflow-inc-interview, "dataflow inc", 2024-01-18, completed, processed/interviews/2024-01-18-dataflow-inc.md
-techcorp-solutions-interview.txt, "techcorp solutions", 2024-01-15, completed, processed/interviews/2024-01-15-techcorp-solutions-v2.md
-cloudscale-systems-notes.md, "cloudscale systems", 2024-01-22, completed, processed/interviews/2024-01-22-cloudscale-systems-v2.md
-dataflow-inc-interview, "dataflow inc", 2024-01-18, completed, processed/interviews/2024-01-18-dataflow-inc-v2.md
